@@ -46,5 +46,7 @@ This Tableau-driven analysis enables DataSearch to:
 📍 Focus on industries with growing needs
 
 🎯 Align recruiting efforts with data-backed market demand
+![image](https://github.com/user-attachments/assets/da15b144-a6c9-4a38-a8cb-9b0ce3aafb75)
+
 
 
